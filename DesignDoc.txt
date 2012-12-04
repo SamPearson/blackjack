@@ -1,0 +1,20 @@
+Blackjack
+
+From a standard fifty-two card deck of playing cards, both the player
+and the dealer are given two cards. The player aims to reach but not 
+exceed twenty-one points in his/her hand with numerical cards holding the
+point value of the number printed on them, face cards being worth 10 points
+and aces being worth 1 or 11 points (at the discretion of the player who
+holds the ace.
+
+Both the dealer and the house are dealt a two cards initally: one face up
+and the other face down. The player may look at their card and choose to 
+draw as many times as they please. They player loses if the point value 
+of their hand exceeds 21. If the player decides at any point not to draw,
+the dealer will begin his/her turn. 
+
+If the dealer's hand is worth less than 17 points, the dealer will
+continue to draw until they have at least 17 points. If the dealer's hand
+exceeds 21 points at any time, the player automatically wins.
+
+
